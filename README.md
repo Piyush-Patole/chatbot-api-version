@@ -14,7 +14,7 @@ How the Code Works (Step-by-Step)
 
 
 Steps to Try :
-1. Clone this repo** or create a folder and add these files.
+1. Clone this repo or create a folder and add these files.
 2. Run & install: pip install -r requirements.txt
 3. Get HuggingFace token and add in .env file
 4. Activate environment: .ven\Scripts\Activate
